@@ -1,2 +1,4 @@
 # etl_project
-We have decided to build a data inventory of NFL data.  The inspiration for this project is that there are many resources for data but each resource has limits – limited free datasets, limited years, and data that is unrelated – and we would like to have a data source in the future that has a much greater flexibility.etet
+The objective of this project is to initially extract National Football League (“NFL”) data from at least two different sources, then transform such data into a comprehensible and usable format, followed by loading the data into a central database. Although there seems to be numerous sources for NFL data, the dearth of free and publicly accessible data sources is a major stumbling block for the interested fanbase, like us, in performing significant football analytics. Be that as it may, we found NFL data from two different sources with which we created a useful postgresSQL database composed of two tables comprising player and gameday data for the 2009 – 2013 seasons.
+
+Project Members: Max Patterson, Anastasios Tomazos, Erin Wills
